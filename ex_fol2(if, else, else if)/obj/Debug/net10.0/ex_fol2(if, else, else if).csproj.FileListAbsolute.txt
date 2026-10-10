@@ -1,0 +1,14 @@
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\bin\Debug\net10.0\ex_fol2(if, else, else if).exe
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\bin\Debug\net10.0\ex_fol2(if, else, else if).deps.json
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\bin\Debug\net10.0\ex_fol2(if, else, else if).runtimeconfig.json
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\bin\Debug\net10.0\ex_fol2(if, else, else if).dll
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\bin\Debug\net10.0\ex_fol2(if, else, else if).pdb
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).AssemblyInfoInputs.cache
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).AssemblyInfo.cs
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).csproj.CoreCompileInputs.cache
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).dll
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\refint\ex_fol2(if, else, else if).dll
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).pdb
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ex_fol2(if, else, else if).genruntimeconfig.cache
+D:\Projects - C#\learning\ex_fol2(if, else, else if)\obj\Debug\net10.0\ref\ex_fol2(if, else, else if).dll

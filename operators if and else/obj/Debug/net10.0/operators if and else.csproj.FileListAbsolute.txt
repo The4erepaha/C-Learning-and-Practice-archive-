@@ -1,0 +1,14 @@
+D:\Projects - C#\learning\operators if and else\bin\Debug\net10.0\operators if and else.exe
+D:\Projects - C#\learning\operators if and else\bin\Debug\net10.0\operators if and else.deps.json
+D:\Projects - C#\learning\operators if and else\bin\Debug\net10.0\operators if and else.runtimeconfig.json
+D:\Projects - C#\learning\operators if and else\bin\Debug\net10.0\operators if and else.dll
+D:\Projects - C#\learning\operators if and else\bin\Debug\net10.0\operators if and else.pdb
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.AssemblyInfoInputs.cache
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.AssemblyInfo.cs
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.csproj.CoreCompileInputs.cache
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.dll
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\refint\operators if and else.dll
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.pdb
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\operators if and else.genruntimeconfig.cache
+D:\Projects - C#\learning\operators if and else\obj\Debug\net10.0\ref\operators if and else.dll

@@ -1,0 +1,14 @@
+D:\Projects - C#\learning\ex_fol1\bin\Debug\net10.0\ex_fol1.exe
+D:\Projects - C#\learning\ex_fol1\bin\Debug\net10.0\ex_fol1.deps.json
+D:\Projects - C#\learning\ex_fol1\bin\Debug\net10.0\ex_fol1.runtimeconfig.json
+D:\Projects - C#\learning\ex_fol1\bin\Debug\net10.0\ex_fol1.dll
+D:\Projects - C#\learning\ex_fol1\bin\Debug\net10.0\ex_fol1.pdb
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.AssemblyInfoInputs.cache
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.AssemblyInfo.cs
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.csproj.CoreCompileInputs.cache
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.dll
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\refint\ex_fol1.dll
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.pdb
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ex_fol1.genruntimeconfig.cache
+D:\Projects - C#\learning\ex_fol1\obj\Debug\net10.0\ref\ex_fol1.dll
