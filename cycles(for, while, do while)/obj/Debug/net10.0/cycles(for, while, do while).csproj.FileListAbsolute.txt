@@ -12,3 +12,4 @@ D:\Projects - C#\learning\cycles(for, while, do while)\obj\Debug\net10.0\refint\
 D:\Projects - C#\learning\cycles(for, while, do while)\obj\Debug\net10.0\cycles(for, while, do while).pdb
 D:\Projects - C#\learning\cycles(for, while, do while)\obj\Debug\net10.0\cycles(for, while, do while).genruntimeconfig.cache
 D:\Projects - C#\learning\cycles(for, while, do while)\obj\Debug\net10.0\ref\cycles(for, while, do while).dll
+D:\Projects - C#\learning\cycles(for, while, do while)\obj\Debug\net10.0\cycles(for, while, do while).sourcelink.json

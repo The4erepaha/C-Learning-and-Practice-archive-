@@ -82,6 +82,61 @@ namespace project
             // {
             //     Console.WriteLine("Вы угадали число!");
             // }
+            // на счет вопроса про то чем они отличаются, я не совсем понял если честно чем, как мне кажется тут лучше подходит while
+            // возможно они отличаются порядком проверки, где while сначала проверяет потом делает, а do while наоборот, сначала делает потом проверяет
+
+            // задание 5
+            // int n,i=0, sumPo = 0;
+            // Console.WriteLine("Угадай число от 1 до 20");
+            // n = Convert.ToInt32(Console.ReadLine());
+            // while( n != 12)
+            // {
+            //     Console.WriteLine("Вы не угадали! Попробуйте еще раз!");
+            //     if( n<= 5)
+            //     {
+            //         Console.WriteLine("Вы  очень далеко!");
+            //         i += 1;
+            //     }
+            //     else if( n > 5 && n <= 10)
+            //     {
+            //         Console.WriteLine("Вы далеко!");
+            //         i += 1;
+            //     }
+            //     else if( n > 10 && n <= 15)
+            //     {
+            //         Console.WriteLine("Вы довольно близко!");
+            //         i += 1;
+            //     }
+            //     else if(n > 15 && n <= 20)
+            //     {
+            //         Console.WriteLine("Вы далеко!");
+            //         i += 1;
+            //     }
+            //     n = Convert.ToInt32(Console.ReadLine());
+
+            // }
+            // sumPo = i;
+            // if( n == 12)
+            // {
+            //     Console.WriteLine("Вы угадали, загаданное число: " + n);
+            //     Console.WriteLine("Сумма попыток: " + sumPo);
+            // }
+
+            // задание 7
+            Console.WriteLine("Вывод чисел от 1 до 20, и пропуск кратных 3.");
+            for(int i = 0; i <= 20 ; i++)
+            {
+                if(i%3 == 0)
+                {
+                    continue;
+                }
+                if(i%11 == 0)
+                {
+                    break;
+                }
+                Console.WriteLine(i);
+            }
+            
             
         }
     }

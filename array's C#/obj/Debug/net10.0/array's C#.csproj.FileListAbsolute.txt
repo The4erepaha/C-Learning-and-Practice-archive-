@@ -1,0 +1,15 @@
+D:\Projects - C#\learning\array's C#\bin\Debug\net10.0\array's C#.exe
+D:\Projects - C#\learning\array's C#\bin\Debug\net10.0\array's C#.deps.json
+D:\Projects - C#\learning\array's C#\bin\Debug\net10.0\array's C#.runtimeconfig.json
+D:\Projects - C#\learning\array's C#\bin\Debug\net10.0\array's C#.dll
+D:\Projects - C#\learning\array's C#\bin\Debug\net10.0\array's C#.pdb
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.AssemblyInfoInputs.cache
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.AssemblyInfo.cs
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.csproj.CoreCompileInputs.cache
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.sourcelink.json
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.dll
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\refint\array's C#.dll
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.pdb
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\array's C#.genruntimeconfig.cache
+D:\Projects - C#\learning\array's C#\obj\Debug\net10.0\ref\array's C#.dll

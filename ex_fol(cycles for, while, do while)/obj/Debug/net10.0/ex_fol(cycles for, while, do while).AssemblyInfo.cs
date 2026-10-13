@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex_fol(cycles for, while, do while)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf4658d2d9eb0fa877c4c6044771875b608d1b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex_fol(cycles for, while, do while)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex_fol(cycles for, while, do while)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
